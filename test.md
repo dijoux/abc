@@ -3,5 +3,5 @@ X:1
 T:Test
 M:
 K:C
-z B_ c B d_2 c2 |
+z _B' C B' _D2 C2 |
 :::
