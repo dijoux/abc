@@ -1,7 +1,7 @@
 :::abc
 X:1
-T:Note lengths
+T:Test
 M:
 K:C
-A/4 A/2 A/ A A2 A3 A4 A6 A7 A8 A12 A16 |]
+z B_ c B d_2 c2 |
 :::
